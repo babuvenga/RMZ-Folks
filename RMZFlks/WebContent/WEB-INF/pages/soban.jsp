@@ -3,7 +3,7 @@
 <html lang="us">
 <head>
 	<meta charset="utf-8">
-	<title>jQuery UI Example Page</title>
+	<title>Churn Model</title>
 	<link href="/RMZFlks/resources/css/jquery-ui.css" rel="stylesheet">
 	  <link href="/RMZFlks/resources/css/dataTables.jqueryui.min.css" rel="stylesheet">
 

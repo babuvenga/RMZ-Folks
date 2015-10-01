@@ -3,7 +3,7 @@
 <html lang="us">
 <head>
 	<meta charset="utf-8">
-	<title>jQuery UI Example Page</title>
+	<title>Churn Model</title>
 	<link href="/RMZFlks/resources/css/jquery-ui.css" rel="stylesheet">
 	 
 	 <link href="/RMZFlks/resources/css/dataTables.jqueryui.min.css" rel="stylesheet"> 
@@ -252,7 +252,7 @@ color:#FFF;
 <div id="header">
 	
 	<div style="width:45%;float:left;text-align:left;"><img src="/RMZFlks/resources/css/images/verizonnewicon.png"></div>
-	<div style="width:50%;float:left;"><h2 class="demoHeaders">Potencial Chunk Customers</h2></div>
+	<div style="width:50%;float:left;"><h2 class="demoHeaders">Potential Churn Customers</h2></div>
 </div>
 <div style="clear:both;"></div>
 <div id="tabs">
@@ -297,7 +297,7 @@ color:#FFF;
 	</c:forEach>
 	</tbody></table>
 </div>
-<div id="offers" style="display:none" title="Churn Data">
+<div id="offers" style="display:none" title="Select Offers">
 <table id='offerTab'><thead><tr><th>Offers</th> <th>Select</th></tr></thead>
 <tfoot><tr><th>Offers</th><th>Select</th></tr></tfoot>
 <tbody>

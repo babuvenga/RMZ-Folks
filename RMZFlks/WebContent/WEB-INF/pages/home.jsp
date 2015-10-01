@@ -3,7 +3,7 @@
 <html lang="us">
 <head>
 	<meta charset="utf-8">
-	<title>jQuery UI Example Page</title>
+	<title>Churn Model</title>
 	<link href="/RMZFlks/resources/css/jquery-ui.css" rel="stylesheet">
 	 <link href="/RMZFlks/resources/css/dataTables.jqueryui.min.css" rel="stylesheet"> 
 	
@@ -250,7 +250,7 @@ color:#FFF;
 <div id="header">
 	
 	<div style="width:45%;float:left;text-align:left;"><img src="/RMZFlks/resources/css/images/verizonnewicon.png"></div>
-	<div style="width:50%;float:left;"><h2 class="demoHeaders">Potencial Chunk Customers</h2></div>
+	<div style="width:50%;float:left;"><h2 class="demoHeaders">Potential Chunk Customers</h2></div>
 </div>
 <div style="clear:both;"></div>
 <div id="tabs">
@@ -270,10 +270,10 @@ color:#FFF;
 		
 	</ul>
 	
-	<div id="Babu"  style="width:100%;height:350px;float:left;"> Babu
+	<div id="Babu"  style="width:100%;height:350px;float:left;"> Customer Name: Babu
 	
 	<div id="datausageholder" style="width:50%;height:100%;float:left;"></div>
-	<div id="gaugeholder" style="width:50%;height:350px;float:left;"></div>
+	<div id="gaugeholder" style="width:50%;height:350px;float:right;"></div>
 	</div>
 	<!-- <div id="Soban123"  style="width:44%;height:350px;float:left;"> Soban
 	
@@ -281,9 +281,9 @@ color:#FFF;
 	<div id="gaugeholder" style="margin-left:1200px;margin-top:-380px;width:40%;height:40%;"></div>
 	</div> -->
  	
-	<div id="Soban"> Soban</div>
+	<div id="Soban">Customer Name: Soban </div>
  	
-	<div id="Rama"> Rama</div>
+	<div id="Rama">Customer Name: Rama </div>
  	
 </div>
 <div style="clear:both;"></div>
@@ -298,7 +298,7 @@ color:#FFF;
 	</c:forEach>
 	</tbody></table>
 </div>
-<div id="offers" style="display:none" title="Churn Data">
+<div id="offers" style="display:none" title="Select Offers">
 <table id='offerTab'><thead><tr><th>Offers</th> <th>Select</th></tr></thead>
 <tfoot><tr><th>Offers</th><th>Select</th></tr></tfoot>
 <tbody>
